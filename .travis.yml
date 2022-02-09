@@ -1,0 +1,6 @@
+language: php
+script:
+ - php index.php
+os: linux
+group: stable
+dist: trusty
